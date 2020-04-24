@@ -14,7 +14,8 @@ class ElementHandler {
       e.setInnerContent(`Welcome to the ${!variant ? 'first' : 'second'} variant!`)
     } else if(e.getAttribute('id') == 'url') {
       e.setInnerContent('Visit my website!')
-      e.setAttribute('href', 'https://pyxel.pro')
+      e.setAttribute('href', '
+https://www.linkedin.com/in/mohd-abid-ali-08026718b/')
     }
   }
 }
